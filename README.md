@@ -1,0 +1,1 @@
+When dev is finished -> powershell -> Set-ExecutionPolicy Restricted -Scope CurrentUser
